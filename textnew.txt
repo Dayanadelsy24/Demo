@@ -1,2 +1,6 @@
 I love to kovai
+<<<<<<< HEAD
 yes 
+=======
+hello
+>>>>>>> dayana
